@@ -11,3 +11,15 @@ To run live with a webcam use:
 To run on an existing video: `python classify-video.py <path to classifier file.eim> <path to .mp4>`
 
 Examples:
+
+
+https://user-images.githubusercontent.com/117161381/206453304-64626574-4540-4baa-a4b1-7077b3656733.mp4
+
+
+
+https://user-images.githubusercontent.com/117161381/206453333-5c855718-702c-4520-a778-41caae6f6677.mp4
+
+
+
+https://user-images.githubusercontent.com/117161381/206453355-5ad93fe2-c149-45f6-bdf9-c0b073756664.mp4
+
