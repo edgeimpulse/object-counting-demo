@@ -10,6 +10,8 @@ To run live with a webcam use:
 
 To run on an existing video: `python classify-video.py <path to classifier file.eim> <path to .mp4>`
 
+Scripts adapted from https://github.com/edgeimpulse/linux-sdk-python/tree/master/examples/image
+
 Examples:
 
 
