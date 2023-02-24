@@ -1,4 +1,7 @@
 # Object Counting Demo
+
+For an on-device object counting example see: https://github.com/edgeimpulse/conveyor-counting-data-synthesis-demo
+
 A quick demo to show one way to count object passing through a FOMO window. Objects are counted as they leave the top of the frame.
 
 The scripts provided scan a slice of the top of the window over a number of frames to detect when inferencing goes from 1 to 0 (similar to detecting a button press). To debounce, an object is only counted if there are N number of 0 values detected after a 1 is.
